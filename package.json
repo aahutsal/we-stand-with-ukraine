@@ -1,6 +1,6 @@
 {
   "name": "we-stand-with-ukraine",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Library to display an Ukrainian flag colors badge on the corner of the website",
   "main": "badge.js",
   "scripts": {
