@@ -1,0 +1,25 @@
+{
+  "name": "we-stand-with-ukraine",
+  "version": "1.0.3",
+  "description": "Library to display an Ukrainian flag colors badge on the corner of the website",
+  "main": "badge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aahutsal/we-stand-with-ukraine.git"
+  },
+  "keywords": [
+    "Ukraine",
+    "badge",
+    "flag",
+    "colors"
+  ],
+  "author": "Arsen A. Hutsal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aahutsal/we-stand-with-ukraine/issues"
+  },
+  "homepage": "https://github.com/aahutsal/we-stand-with-ukraine#readme"
+}
